@@ -1,0 +1,30 @@
+Farmacia San Juan 
+sistema Web
+josue Erasmo Rodríguez Castellanos
+
+login Administrador(propietario Farmacia San Juan)
+username: oscarestuardohernand@gmail.com
+password: oscarestuardo4845
+
+
+Manual de implementación:
+1 descargar los archivos del repositorio de github
+link: https://github.com/jrodriguezc19/FarmaciaSanJuanGithub.git
+
+2. descargar Xamp
+link: https://www.apachefriends.org/es/download.html
+ 
+3. correr servicios de  apache y Mysql
+4. crear una carpeta llamada farmacia en la siguiente dirección
+     xamp/htdocs/farmacia
+5. abrir el script de BD y copiarlo
+6. ingresar a phpMyadmin 
+link:  http://localhost/phpmyadmin/
+
+5. creacion de BD con el nombre farmacia (minusculas)
+6. correr el script sql en el apartado de script
+7. ingresar al link  http://localhost/farmacia/login.php
+ingresar usuario administrador
+username: oscarestuardohernand@gmail.com
+password: oscarestuardo4845
+inicio exitoso.
